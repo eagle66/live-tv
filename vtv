@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<item>
+<title>vtv1 </title>
+<link>rtmp://38.107.180.195:1935/live/vtv11_h swfUrl=http://www.vtc.com.vn/player_akamai_low.swf pageUrl=http://www.vtc.com.vn/live/9/VTV1.html live=true</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>vtv3 </title>
+<link>rtmp://38.107.180.195:1935/live/vtv31_h swfUrl=http://www.vtc.com.vn/player_akamai_low.swf pageUrl=http://www.vtc.com.vn/live/11/VTV3.html live=true</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>vtv4 </title>
+<link>rtmp://38.107.180.195:1935/live/vtv4_h swfUrl=http://www.vtc.com.vn/player_akamai_low.swf pageUrl=http://www.vtc.com.vn/live/12/VTV4.html live=true</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>vtc1</title>
+<link>tmp://66.160.142.194:1935/live/vtc11_h swfUrl=http://www.vtc.com.vn/player_akamai_low.swf pageUrl=http://www.vtc.com.vn/live/1/VTC1.html live=true</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VTC2</title>
+<link>rtmp://66.160.142.194:1935/live/vtc21_h swfUrl=http://www.vtc.com.vn/player_akamai_low.swf pageUrl=http://www.vtc.com.vn/live/75/VTC2.html live=true</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>VTC10</title>
+<link>rtmp://38.107.180.195:1935/live/vtc101_h swfUrl=http://www.vtc.com.vn/player_akamai_low.swf pageUrl=http://www.vtc.com.vn/live/4/VTC10.html live=true</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Ha-Noi-1</title>
+<link>rtmp://38.107.180.195:1935/live/hanoi11_h swfUrl=http://www.vtc.com.vn/player_akamai_low.swf pageUrl=http://www.vtc.com.vn/live/6/Ha-Noi-1.html live=true</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HTV7</title>
+<link>rtmp://66.160.142.194:1935/live/htv7_h swfUrl=http://www.vtc.com.vn/player_akamai_low.swf pageUrl=http://www.vtc.com.vn/live/7/HTV7.html live=true</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>HTV9</title>
+<link>rtmp://66.160.142.194:1935/live/htv91_h swfUrl=http://www.vtc.com.vn/player_akamai_low.swf pageUrl=http://www.vtc.com.vn/live/8/HTV9.html live=true</link>
+<thumbnail></thumbnail>
+</item>
